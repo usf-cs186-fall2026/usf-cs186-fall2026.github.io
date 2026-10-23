@@ -1,1 +1,3 @@
-# usf-cs186-fall2026.github.io
+# CS 186 Building CS Skills &amp; Community
+
+Example GitHub Pages website.
